@@ -71,4 +71,4 @@ This will open a web browser window with the predictor interface.
 
 ---
 
-These instructions make it easy for anyone, including beginners, to run and experiment with your project.
+These instructions make it easy for anyone, including beginners, to run and experiment with our project.
